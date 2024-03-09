@@ -1,0 +1,1 @@
+To oto zdanie zostało dopisane do pliku przy pomocy funkcji writeFile.
